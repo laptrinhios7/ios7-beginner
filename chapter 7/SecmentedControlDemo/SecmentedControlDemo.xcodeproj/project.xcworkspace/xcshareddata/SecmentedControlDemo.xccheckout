@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>D2D0DB09-F646-4985-AFE8-9143D8BEA213</string>
+	<string>258C53FE-436A-498C-A327-0EE2598480FA</string>
 	<key>IDESourceControlProjectName</key>
 	<string>SecmentedControlDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>4AAD43B3-0A1D-464E-9006-BC1E67660D80</string>
 			<key>IDESourceControlWCCName</key>
-			<string>ios7-beginner</string>
+			<string>SecmentedControlDemo</string>
 		</dict>
 	</array>
 </dict>
