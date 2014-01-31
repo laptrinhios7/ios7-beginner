@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>258C53FE-436A-498C-A327-0EE2598480FA</string>
+	<string>17E0FF50-ED02-4B65-83EE-B512266911B7</string>
 	<key>IDESourceControlProjectName</key>
-	<string>SecmentedControlDemo</string>
+	<string>SegmentedControlDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>4AAD43B3-0A1D-464E-9006-BC1E67660D80</key>
 		<string>https://github.com/laptrinhios7/ios7-beginner.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>chapter 7/SecmentedControlDemo/SecmentedControlDemo.xcodeproj/project.xcworkspace</string>
+	<string>chapter 7/SegmentedControlDemo/SegmentedControlDemo.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>4AAD43B3-0A1D-464E-9006-BC1E67660D80</key>

@@ -1,18 +1,18 @@
 //
-//  SecmentedControlDemoTests.m
-//  SecmentedControlDemoTests
+//  SegmentedControlDemoTests.m
+//  SegmentedControlDemoTests
 //
-//  Created by Sinh Nguyen Xuan on 1/18/14.
+//  Created by Sinh Nguyen Xuan on 1/31/14.
 //  Copyright (c) 2014 Sinh Nguyen Xuan. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface SecmentedControlDemoTests : XCTestCase
+@interface SegmentedControlDemoTests : XCTestCase
 
 @end
 
-@implementation SecmentedControlDemoTests
+@implementation SegmentedControlDemoTests
 
 - (void)setUp
 {

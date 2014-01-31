@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>SecmentedControlDemo.xcscheme</key>
+		<key>SegmentedControlDemo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>5A6C223E188A6C26007FF9A6</key>
+		<key>5A32CECF189C073500742504</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5A6C225F188A6C26007FF9A6</key>
+		<key>5A32CEF0189C073500742504</key>
 		<dict>
 			<key>primary</key>
 			<true/>

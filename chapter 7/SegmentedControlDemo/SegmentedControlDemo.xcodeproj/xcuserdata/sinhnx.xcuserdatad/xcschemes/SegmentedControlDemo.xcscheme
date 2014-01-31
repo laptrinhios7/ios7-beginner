@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5A6C223E188A6C26007FF9A6"
-               BuildableName = "SecmentedControlDemo.app"
-               BlueprintName = "SecmentedControlDemo"
-               ReferencedContainer = "container:SecmentedControlDemo.xcodeproj">
+               BlueprintIdentifier = "5A32CECF189C073500742504"
+               BuildableName = "SegmentedControlDemo.app"
+               BlueprintName = "SegmentedControlDemo"
+               ReferencedContainer = "container:SegmentedControlDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5A6C225F188A6C26007FF9A6"
-               BuildableName = "SecmentedControlDemoTests.xctest"
-               BlueprintName = "SecmentedControlDemoTests"
-               ReferencedContainer = "container:SecmentedControlDemo.xcodeproj">
+               BlueprintIdentifier = "5A32CEF0189C073500742504"
+               BuildableName = "SegmentedControlDemoTests.xctest"
+               BlueprintName = "SegmentedControlDemoTests"
+               ReferencedContainer = "container:SegmentedControlDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5A6C223E188A6C26007FF9A6"
-            BuildableName = "SecmentedControlDemo.app"
-            BlueprintName = "SecmentedControlDemo"
-            ReferencedContainer = "container:SecmentedControlDemo.xcodeproj">
+            BlueprintIdentifier = "5A32CECF189C073500742504"
+            BuildableName = "SegmentedControlDemo.app"
+            BlueprintName = "SegmentedControlDemo"
+            ReferencedContainer = "container:SegmentedControlDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -61,10 +61,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5A6C223E188A6C26007FF9A6"
-            BuildableName = "SecmentedControlDemo.app"
-            BlueprintName = "SecmentedControlDemo"
-            ReferencedContainer = "container:SecmentedControlDemo.xcodeproj">
+            BlueprintIdentifier = "5A32CECF189C073500742504"
+            BuildableName = "SegmentedControlDemo.app"
+            BlueprintName = "SegmentedControlDemo"
+            ReferencedContainer = "container:SegmentedControlDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -79,10 +79,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5A6C223E188A6C26007FF9A6"
-            BuildableName = "SecmentedControlDemo.app"
-            BlueprintName = "SecmentedControlDemo"
-            ReferencedContainer = "container:SecmentedControlDemo.xcodeproj">
+            BlueprintIdentifier = "5A32CECF189C073500742504"
+            BuildableName = "SegmentedControlDemo.app"
+            BlueprintName = "SegmentedControlDemo"
+            ReferencedContainer = "container:SegmentedControlDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
