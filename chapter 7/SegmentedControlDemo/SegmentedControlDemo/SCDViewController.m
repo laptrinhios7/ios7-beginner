@@ -28,8 +28,8 @@
 }
 
 - (IBAction)colorChosen:(id)sender {
-    /* 
-    //if statement
+    
+    /*//if statement
     if (_colorChooser.selectedSegmentIndex==0) {
         self.view.backgroundColor = [UIColor redColor];
     }
